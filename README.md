@@ -15,7 +15,7 @@ _Primeiro projeto feito em Back-end, feito para fixar os conhecimentos de Docker
   
     * cd Docker-ToDO-List
 
- **Instale as dependencias:
+ **Instale as dependencias**
   
   * npm instal
    
