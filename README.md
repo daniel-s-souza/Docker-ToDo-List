@@ -17,6 +17,6 @@ _Primeiro projeto feito em Back-end, feito para fixar os conhecimentos de Docker
 
  **Instale as dependencias**
   
-  * npm instal
+  * npm install
    
     * npm start (para executar a aplicação desenvolvida pelo time da Trybe)
